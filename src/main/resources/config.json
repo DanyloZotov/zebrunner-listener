@@ -1,0 +1,9 @@
+{
+  "host": "https://solvdinternal.zebrunner.com",
+  "token": "erUG1EldByMaMHoByoosG9Dr232oxXkVnX5mmhUlnpnnBS3NpR",
+  "projectKey": "DZA",
+  "framework": "testng",
+  "successfulTest": "PASSED",
+  "failedTest": "FAILED",
+  "skippedTest": "SKIPPED"
+}
